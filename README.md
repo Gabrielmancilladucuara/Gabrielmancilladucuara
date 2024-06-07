@@ -8,6 +8,7 @@
 <!--Header Name-->
 <br /> 
 <!--Start Intro-->               
+<!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
