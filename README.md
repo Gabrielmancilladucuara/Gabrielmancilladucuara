@@ -9,15 +9,15 @@
 <br /> 
 <!--Start Intro-->               
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">Hello! I am an introverted, active, and responsible person. As a programmer, I have experience with Node.js, NestJS, Express, Sequelize, TypeScript, and JavaScript. I am passionate about continuous learning and always strive to improve my knowledge and skills. I appreciate well-done work and make an effort to stay updated with the latest technologies and best practices in web development.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🌱 Currently, I am learning more, and I believe that each day is an opportunity for learning.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
+- 💁‍♂️ I volunteer in the **No country community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 💻 Visit my [Portfolio](https://gabriel-mancilla.vercel.app/) for more details about me.
 <!--End Intro-->
 
 <!--h1 without bottom border-->
