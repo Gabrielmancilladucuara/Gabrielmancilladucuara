@@ -20,19 +20,19 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 <!--Header Name-->
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,express,github,html,js,mongodb,nodejs,postman,ts,vscode" />
-  </a>
-</p>
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,express,github,html,js,mongodb,nodejs,postman,ts,vscode" />
+  </a>
+</p>
 
 <Br>
 <h1>Certifications! 🏆</h1>
