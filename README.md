@@ -15,8 +15,6 @@
 - 🌱 Currently, I am learning more, and I believe that each day is an opportunity for learning.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
 - 💁‍♂️ I volunteer in the **No country community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://gabriel-mancilla.vercel.app/) for more details about me.
 <!--End Intro-->
 
