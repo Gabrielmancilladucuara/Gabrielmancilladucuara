@@ -1,6 +1,3 @@
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Gabriel! 
 * (Developer / Programmer)*
@@ -19,6 +16,9 @@
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
 <!--End Intro-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 <!--Header Name-->
 
 <!--h1 without bottom border-->
