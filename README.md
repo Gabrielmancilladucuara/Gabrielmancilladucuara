@@ -35,7 +35,7 @@
 <h1>Certifications! 🏆</h1>
 <Br>
   
-|[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/Intermediate%20Python-blue?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
+|[![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Introduction%20to%20Python-1.jpg)|[![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|[![](https://img.shields.io/badge/Machine%20Learning%20for%20Everyone-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Machine%20Learning%20for%20Everyone-1.jpg)|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-I-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20I-1.jpg)|
 <Br>
 <hr>
 <!-- Connect with me -->
